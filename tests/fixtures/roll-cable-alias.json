@@ -1,0 +1,36 @@
+{
+  "data": {
+    "cableDirection": 1,
+    "rotate": 90,
+    "isCable": true,
+    "height": 12.5,
+    "name": "T12.5*74+35-60白线缆",
+    "names": [
+      {
+        "languageCode": "zh-cn",
+        "languageName": "简体中文",
+        "name": "T12.5*74+35-60白线缆"
+      },
+      {
+        "languageCode": "en",
+        "languageName": "英语",
+        "name": "T12.5*74+35-60WHITE Cable"
+      },
+      {
+        "languageCode": "ko",
+        "languageName": "韩语",
+        "name": "T12.5*74+35-60WHITE Cable"
+      }
+    ],
+    "width": 74,
+    "cableLength": 35,
+    "barcode": "083024188",
+    "profile": {
+      "extrain": {
+        "virtualBarCode": "6972842743787"
+      },
+      "machineName": "D41,D11,Dxx,H1,D110_M,H1S,D11S,Fust,D101,D110,Hi-NB-D11,D11_Pro,D11_H,D61,Hi-D110"
+    }
+  },
+  "code": 1
+}

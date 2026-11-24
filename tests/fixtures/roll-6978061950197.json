@@ -1,0 +1,11 @@
+{
+  "code": 1,
+  "data": {
+    "barcode": "6978061950197",
+    "name": "T12*40-155白色",
+    "width": 40,
+    "height": 12,
+    "rotate": 90,
+    "profile": { "machineName": "D41,D11,Dxx,H1,D110_M,H1S,D11S,Fust,D101,D110,Hi-NB-D11,D11_Pro,D11_H,D61,Hi-D110" }
+  }
+}

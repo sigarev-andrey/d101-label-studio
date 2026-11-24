@@ -1,0 +1,121 @@
+{
+  "data": {
+    "cableDirection": 1,
+    "rotate": 90,
+    "isCable": true,
+    "height": 12.5,
+    "name": null,
+    "names": [
+      {
+        "languageCode": "zh-cn",
+        "languageName": "简体中文",
+        "name": ""
+      },
+      {
+        "languageCode": "zh-cn-t",
+        "languageName": "繁体中文",
+        "name": ""
+      },
+      {
+        "languageCode": "en",
+        "languageName": "英语",
+        "name": "T12.5*74+35-60White INNPRO"
+      },
+      {
+        "languageCode": "ja",
+        "languageName": "日本語",
+        "name": ""
+      },
+      {
+        "languageCode": "ru",
+        "languageName": "俄语",
+        "name": ""
+      },
+      {
+        "languageCode": "it",
+        "languageName": "意大利语",
+        "name": ""
+      },
+      {
+        "languageCode": "fr",
+        "languageName": "法语",
+        "name": ""
+      },
+      {
+        "languageCode": "de",
+        "languageName": "德语",
+        "name": ""
+      },
+      {
+        "languageCode": "es",
+        "languageName": "西班牙语",
+        "name": ""
+      },
+      {
+        "languageCode": "ko",
+        "languageName": "韩语",
+        "name": ""
+      },
+      {
+        "languageCode": "Polish",
+        "languageName": "波兰语",
+        "name": ""
+      },
+      {
+        "languageCode": "Czech",
+        "languageName": "捷克语",
+        "name": ""
+      },
+      {
+        "languageCode": "th",
+        "languageName": "泰语",
+        "name": ""
+      },
+      {
+        "languageCode": "pt",
+        "languageName": "葡萄牙语",
+        "name": ""
+      },
+      {
+        "languageCode": "af",
+        "languageName": "荷兰语",
+        "name": ""
+      },
+      {
+        "languageCode": "ind",
+        "languageName": "印尼语",
+        "name": ""
+      },
+      {
+        "languageCode": "ar",
+        "languageName": "阿拉伯语",
+        "name": ""
+      },
+      {
+        "languageCode": "tr",
+        "languageName": "土耳其语",
+        "name": ""
+      },
+      {
+        "languageCode": "ms",
+        "languageName": "马来语",
+        "name": ""
+      },
+      {
+        "languageCode": "hi",
+        "languageName": "印地语",
+        "name": ""
+      }
+    ],
+    "width": 74,
+    "cableLength": 35,
+    "barcode": "6977031210668",
+    "profile": {
+      "extrain": {
+        "virtualBarCode": null
+      },
+      "machineName": "D41,D11,Dxx,H1,D110_M,H1S,D11S,Fust,D101,D110,Hi-NB-D11,D11_Pro,D11_H,D61,Hi-D110"
+    }
+  },
+  "code": 1
+}

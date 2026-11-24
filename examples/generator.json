@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "spec": {
+    "outline": { "kind": "Auto" },
+    "length_mm": 40.0,
+    "width_mm": 12.0,
+    "font_px": 28.0,
+    "rotate_180": false
+  },
+  "generator": {
+    "variables": [{ "name": "номер", "source": { "Range": { "start": 1, "end": 10, "step": 1, "digits": 3 } } }],
+    "combine": "Rows",
+    "copies": 1
+  },
+  "labels": [{
+    "name": "Шаблон кабеля",
+    "copies": 1,
+    "enabled": false,
+    "blocks": [{
+      "id": 1,
+      "bounds": { "x": 2.0, "y": 2.0, "width": 36.0, "height": 8.0 },
+      "content": {
+        "kind": "Text",
+        "text": "Кабель {номер}",
+        "style": { "family": "Segoe UI", "points": 10.0, "bold": true, "alignment": 1, "vertical_alignment": 1 }
+      }
+    }]
+  }]
+}

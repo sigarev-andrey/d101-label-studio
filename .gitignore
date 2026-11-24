@@ -1,0 +1,46 @@
+/target/
+/.tools/
+/.reference/
+/dist/
+/.test-data/
+/D101-Label-Studio-*.zip
+.vscode/
+.vs/
+.idea/
+.codex/
+__pycache__/
+
+# Local credentials and signing material
+.env
+.env.*
+.cargo/credentials
+.cargo/credentials.toml
+*.pfx
+*.p12
+*.key
+
+# Debug symbols, crash dumps, and packet captures
+*.log
+*.pdb
+*.ilk
+*.dmp
+*.mdmp
+*.etl
+*.pcap
+*.pcapng
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# Device settings and local print data, including custom --data-dir profiles
+config.json
+editor-session.json
+roll-catalog.json
+bridge.lock
+jobs/
+simulated/
+
+# Working artwork
+/assets/icon-proposals/
+/scripts/Generate-*-Icons.py
+/scripts/Generate-Icon-Proposals.py
